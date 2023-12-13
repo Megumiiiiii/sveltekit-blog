@@ -13,7 +13,7 @@ Jadi, ambillah peta Anda dan mari kita mengibarkan layar untuk petualangan besar
 
 <img width="100%" height="auto" src="/post-images/defivoo.webp" alt="adv" type="image/webp"/>
 
-Petualangan ini adalah tujuan utama Anda untuk mempelajari strategi CIAN, berpartisipasi dalam acara-acara seru, terlibat dengan komunitas kami, dan memenangkan hadiah-hadiah fantastis! Lanjutkan membaca untuk bersiap-siap mengikuti Petualangan Besar CIAN!
+Petualangan ini adalah tujuan utama Anda untuk mempelajari strategi CIAN, berpartisipasi dalam acara-acara seru, terlibat dengan komunitas kami, dan memenangkan hadiah-hadiah fantastis! Lanjutkan membaca untuk bersiap-siap mengikuti CIAN Grand Adventure!
 
 ## Panduan 1: Apa itu CIAN?
 
@@ -25,7 +25,7 @@ Sebelum kita memulai perjalanan, mari kita kenali kapal kita - CIAN.
 Jelajahi CIAN lebih detail di sini: <a href="http://cian.app/" target="_blank">cian.app</a>
 
 
-## Panduan 2: Apa yang ada dalam Petualangan Besar CIAN?
+## Panduan 2: Apa yang ada dalam CIAN Grand Adventure?
 
 ### 1. DeFi Islands Voyage
 
@@ -37,7 +37,7 @@ Petualangan pertama dan pencarian-pencarian segera datang!
 
 ### 2. Voyage Points Leaderboard
 
-Kumpulkan point petualangan sebagai tanda partisipasi aktif dan kontribusi Anda dalam Petualangan Besar CIAN. Point-point ini bukan hanya memperlihatkan kehormatan Anda di dalam CIAN tetapi juga kunci Anda untuk membuka hadiah-hadiah luar biasa, termasuk akses ke Liga Bajak Laut CIAN eksklusif dan kelayakan untuk hadiah-hadiah CIAN di masa depan.
+Kumpulkan point petualangan sebagai tanda partisipasi aktif dan kontribusi Anda dalam CIAN Grand Adventure. Point-point ini bukan hanya memperlihatkan kehormatan Anda di dalam CIAN tetapi juga kunci Anda untuk membuka hadiah-hadiah luar biasa, termasuk akses ke Liga Bajak Laut CIAN eksklusif dan kelayakan untuk hadiah-hadiah CIAN di masa depan.
 
 Point dapat diperoleh melalui berbagai kegiatan, termasuk berpartisipasi dalam strategi CIAN, bergabung dalam program duta CIAN, atau memperoleh OATs selama kampanye.
 

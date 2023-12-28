@@ -21,7 +21,7 @@
       <DarkmodeButton />
 
       <IconLink
-        href="https://megumii.blessingway.xyz"
+        href="https://megumii.xyz"
         target="_blank"
       >
         <WebIcon class="w-8 h-8 fill-current" />
